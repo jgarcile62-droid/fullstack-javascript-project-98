@@ -16,3 +16,6 @@ https://asciinema.org/a/EVAAKNHlAB1MyF01
 #Progresión aritmética
 https://asciinema.org/a/g0R6aC950INMfTJB
 
+#¿Es primo?
+https://asciinema.org/a/E8Bxa3vjiT96JkKL
+
